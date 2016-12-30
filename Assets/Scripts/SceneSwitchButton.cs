@@ -10,10 +10,12 @@ namespace VRStandardAssets.Examples
 	{
 		[SerializeField] private VRInteractiveItem m_InteractiveItem;
 		[SerializeField] private Renderer m_Renderer;
-
+		[SerializeField] private Material normalMat;
+		[SerializeField] private Material outlinedMat;
 
 		private void Awake ()
 		{
+			
 		}
 
 
@@ -38,14 +40,14 @@ namespace VRStandardAssets.Examples
 		//Handle the Over event
 		private void HandleOver()
 		{
-			
+			m_Renderer.material = outlinedMat;
 		}
 
 
 		//Handle the Out event
 		private void HandleOut()
 		{
-			
+			m_Renderer.material = normalMat;
 		}
 
 

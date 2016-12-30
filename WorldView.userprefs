@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SceneSwitchButton.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/shaders/Outlined_Diffuse.shader">
     <Files>
-      <File FileName="Assets/Scripts/SceneSwitchButton.cs" Line="55" Column="1" />
+      <File FileName="Assets/Scripts/SceneSwitchButton.cs" Line="50" Column="32" />
+      <File FileName="Assets/Resources/shaders/Outlined_Diffuse.shader" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

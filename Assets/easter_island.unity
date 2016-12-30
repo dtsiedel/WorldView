@@ -346,6 +346,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_InteractiveItem: {fileID: 997921827}
   m_Renderer: {fileID: 997921828}
+  normalMat: {fileID: 2100000, guid: 2bd3acbdff12245409bf889ef2d4355a, type: 2}
+  outlinedMat: {fileID: 2100000, guid: d153a82291d724f21a0787e783fccc13, type: 2}
 --- !u!65 &997921826
 BoxCollider:
   m_ObjectHideFlags: 0

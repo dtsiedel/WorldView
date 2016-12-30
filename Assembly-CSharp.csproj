@@ -105,6 +105,7 @@
      <Compile Include="Assets\VRStandardAssets\Scripts\VRInput.cs" />
      <Compile Include="Assets\VRStandardAssets\Scripts\VRInteractiveItem.cs" />
      <Compile Include="Assets\VRStandardAssets\Scripts\VRTrackingReset.cs" />
+     <None Include="Assets\Resources\shaders\Outlined_Diffuse.shader" />
      <None Include="Assets\VRSampleScenes\Shaders\UnlitTransparentParam.shader" />
      <None Include="Assets\Plugins\Android\Assets\OSIG_Readme.txt" />
      <None Include="Assets\VRSampleScenes\Shaders\UIOverlay.shader" />
@@ -114,9 +115,6 @@
      <None Include="Assets\VRSampleScenes\Shaders\SeparableAlpha.shader" />
      <None Include="Assets\VRSampleScenes\Fonts\LICENSE.txt" />
      <None Include="Assets\Vendor\mk\Editor\preference.xml" />
- <Reference Include="UnityEngine.Purchasing">
- <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
@@ -128,9 +126,6 @@
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Advertisements">
- <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.HoloLens">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>

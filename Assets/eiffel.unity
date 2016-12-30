@@ -124,6 +124,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_InteractiveItem: {fileID: 48625968}
   m_Renderer: {fileID: 48625969}
+  normalMat: {fileID: 2100000, guid: 946685b84cca6478e83f22b7006f2c8e, type: 2}
+  outlinedMat: {fileID: 2100000, guid: b7ec85a4cc07847d88fe30048778c3a9, type: 2}
 --- !u!65 &48625967
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -231,6 +233,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_InteractiveItem: {fileID: 189247062}
   m_Renderer: {fileID: 189247063}
+  normalMat: {fileID: 2100000, guid: b3e595ec6c94146a58aae14503778037, type: 2}
+  outlinedMat: {fileID: 2100000, guid: 40a56baf449a74722b3afe4e2fa86a46, type: 2}
 --- !u!65 &189247061
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -338,6 +342,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_InteractiveItem: {fileID: 225057761}
   m_Renderer: {fileID: 225057762}
+  normalMat: {fileID: 2100000, guid: d41366d82bc534849aa03faf1bda4e72, type: 2}
+  outlinedMat: {fileID: 2100000, guid: bf428e6ec65054c6bbaf8f3227cc6e0a, type: 2}
 --- !u!65 &225057760
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -753,6 +759,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_InteractiveItem: {fileID: 985116800}
   m_Renderer: {fileID: 985116801}
+  normalMat: {fileID: 2100000, guid: e923fcc597b634d74b3c4659f4026ad3, type: 2}
+  outlinedMat: {fileID: 2100000, guid: 9e1a70b26d8cd4174bf4d7a0751f79eb, type: 2}
 --- !u!65 &985116799
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -939,6 +947,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_InteractiveItem: {fileID: 1113697986}
   m_Renderer: {fileID: 1113697987}
+  normalMat: {fileID: 2100000, guid: 4726edf38c3ed465097bf2a526b4787e, type: 2}
+  outlinedMat: {fileID: 2100000, guid: 07fa3f83970b84debade6f6d33ac6d44, type: 2}
 --- !u!65 &1113697985
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1235,6 +1245,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_InteractiveItem: {fileID: 1831199344}
   m_Renderer: {fileID: 1831199345}
+  normalMat: {fileID: 2100000, guid: cb2338fc959824320b124cc47c86064c, type: 2}
+  outlinedMat: {fileID: 2100000, guid: ec5e969ee5e2e41f8aea5ae53d7b94ae, type: 2}
 --- !u!33 &1831199347
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -1288,6 +1300,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_InteractiveItem: {fileID: 1988042531}
   m_Renderer: {fileID: 1988042532}
+  normalMat: {fileID: 2100000, guid: b07ea8fee01ca427fa0af46ab64de05e, type: 2}
+  outlinedMat: {fileID: 2100000, guid: deb2e36f3e4524aa68f55d70ce08f6f4, type: 2}
 --- !u!65 &1988042530
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1395,6 +1409,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_InteractiveItem: {fileID: 2074821853}
   m_Renderer: {fileID: 2074821854}
+  normalMat: {fileID: 2100000, guid: 2ae2d227d93c9406c8c435cafa3be4f0, type: 2}
+  outlinedMat: {fileID: 2100000, guid: 64758832ceb3f45c79285f16bb0e1e93, type: 2}
 --- !u!65 &2074821852
 BoxCollider:
   m_ObjectHideFlags: 0
