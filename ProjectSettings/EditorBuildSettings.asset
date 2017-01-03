@@ -35,3 +35,5 @@ EditorBuildSettings:
     path: Assets/colosseum.unity
   - enabled: 1
     path: Assets/great_wall.unity
+  - enabled: 1
+    path: Assets/eiffel_base.unity

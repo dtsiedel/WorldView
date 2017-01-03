@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/washington_monument.unity
+- path: Assets/eiffel_base.unity
   isLoaded: 1
   isActive: 1
